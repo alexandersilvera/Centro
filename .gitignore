@@ -1,1 +1,6 @@
-static/
+__pycache__
+*.*~
+*.pyc
+.env
+.idea
+template/*
